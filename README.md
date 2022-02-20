@@ -167,6 +167,7 @@ contract SimpleStorage {
 
 Head over to the side bar and click on the solidity compiler.
 ![image](./Images/compilerOption.png)
+
 Leave the settings as shown in the image above and click on compile Calculator.sol.
 Next, in the sidebar click on the "deploy and run transactions" icon.
 
